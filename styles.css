@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  section {
+    padding: 50px 0;
+  }
+  
+  .container {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .feature {
+    text-align: center;
+  }
+  
+  .feature img {
+    width: 200px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }
+/* existing styles remain unchanged */
+
+#additional {
+    background-color: #f2f2f2;
+  }
+  
+  .additional {
+    text-align: center;
+    padding: 50px 0;
+  }
+  
+  .additional .btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .additional .btn:hover {
+    background-color: #555;
+  }
+    
